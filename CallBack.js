@@ -1,5 +1,4 @@
-//CallBack example from Asynchronous Javascript Proramming video
-//I'm using the setTimeout (function, milliseconds) function
+//CallBack example from Asynchronous Javascript Proramming
 
 function getData(ms, query){
 	setTimeout(function() {
