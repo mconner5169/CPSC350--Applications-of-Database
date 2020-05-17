@@ -1,3 +1,5 @@
-# CPSC 350 - Web Development Template
+# CPSC 350 - Applications of Database Class
 
-The JavaScript files contain a simple webstie template where I'm getting my data from Postman and using a server to upload it to the web.
+This course provides an introduction to databases and their application, particularly in data driven web applications.
+The course covers both SQL noSQL approaches. This year we will be working with PostgreSQL, and Elasticsearch, and developing web apps
+using Javascript, and Node.js.
